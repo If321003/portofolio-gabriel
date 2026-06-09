@@ -21,17 +21,17 @@ export const skillsData = [
 export const projectsData = [
   {
     id: 1,
-    title: "SoftWare Engineer - PT Asuransi SinarMas",
+    title: "Software Engineer - PT Asuransi SinarMas",
     period: "Mar 2024-Mar 2026",
-    description: "Developed and maintained enterprise applications using Pega Platform, following PRPC best practices. Designed case types, UI forms, data models, and automated business logic.",
-    techStack: ["Pega Platform", "PRPC"]
+    description: "Developed and maintained enterprise applications by integrating the Pega Platform with custom backend solutions using Java and Laravel to ensure high scalability.Designed end-to-end business process automation, combining Pega workflows with responsive, custom user interfaces built using HTML and CSS.Engineered robust data models and system integrations, leveraging Pega alongside Laravel and Java to seamlessly connect external APIs and databases.",
+    techStack: ["Pega Platform", "PRPC", "Java", "Laravel", "HTML/CSS"]
   },
 {
     id: 2,
     title: "Technical Consultant - PT Artha Infotama",
     period: "May 2026-Present",
     description: "Backend architecture and systems integration specialist. Focused on strategic customization of Microsoft Dynamics GP to optimize ERP efficiency, build seamless cross-platform integrations, and deliver reliable software solutions for enterprise-level operational needs.",
-    techStack: ["Pega Platform", "PRPC"]
+    techStack: ["Dexterity", "Microsoft Dynamics GP", "Microsoft SQL Server"]
   },
   {
     id: 3,
