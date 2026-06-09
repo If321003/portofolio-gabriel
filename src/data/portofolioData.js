@@ -15,7 +15,10 @@ export const skillsData = [
   "JavaScript (React.js, Node.js, JQuery)",
   "Dart (Flutter)",
   "HTML, CSS, Bootstrap",
-  "SQL Server"
+  "SQL Server",
+  "Microsoft Dynamics GP (Dexterity)",
+  "Pega Platform (PRPC)",
+  "Microsoft SQL Server"
 ];
 
 export const projectsData = [
